@@ -18,4 +18,4 @@ curl -O https://repo.continuum.io/archive/Anaconda2-4.3.1-Linux-x86_64.sh
 chmod +x Anaconda2-4.3.1-Linux-x86_64.sh
 ```
 
-Note :: How to install and run Anaconda is covered in next assignments.
+Note: How to install and run Anaconda is covered in next assignments.
